@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+.Title {
+    font-size: 36px;
+    font-weight: bold;
+
+}
+.description   {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.directions{
+    margin-left: 30%;
+    margin-right: 30%;
+}
